@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lukas Olivier</h1>
 <h3 align="center">I am a 20-year-old software engineering student, deeply passionate about programming and technology</h3>
 
-- 🔭 I’m currently working on [Tappd](https://tappd-demo.lukasolivier.be/)
+- 🔭 I’m currently working on [Izegem Klinkt](https://izegemklinkt.be/)
 
-- 🌱 I’m currently learning **Svelte, Laravel, Jetpack Compose & System Management**
+- 🌱 I’m currently learning **Nuxt**
 
 - 👨‍💻 Read more about my projects at [https://lukasolivier.be/#project-container](https://lukasolivier.be/#project-container)
 
