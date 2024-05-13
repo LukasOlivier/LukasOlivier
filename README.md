@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nuxt**
 
-- 👨‍💻 Read more about my projects at [https://lukasolivier.be/#project-container](https://lukasolivier.be/#project-container)
+- 👨‍💻 Read more about my projects at [https://lukasolivier.be/projects](https://lukasolivier.be/projects)
 
 - 📫 How to reach me **mail@lukasolivier.be**
 
