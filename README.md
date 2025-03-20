@@ -1,8 +1,6 @@
-# Lukas Olivier
+# Lukas Olivier - Software Engineering Student & Developer
 
-## Software Engineering Student & Developer
-
-I'm a software engineering student with a deep passion for programming and technology. I contribute to various open-source projects and work across multiple organizations.
+I'm an industrial engineering student with a passion for technology. Alongside my studies, I've started my journey as a student freelancer, specializing in software development. 
 
 ### 📌 Quick Links
 
