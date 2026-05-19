@@ -9,12 +9,8 @@ Here on my GitHub, you’ll find a mix of:
 * **Professional freelance work**, open-sourced with client permission
 * **Academic projects** from my software engineering degree
 
-### 📌 Quick Links
+### Quick Links
 
 * **Portfolio & Blog:** [www.lukasolivier.be](https://www.lukasolivier.be)
 * **Email:** [mail@lukasolivier.be](mailto:mail@lukasolivier.be)
 * **LinkedIn:** [linkedin.com/in/lukasolivier](https://www.linkedin.com/in/lukas-olivier)
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasOlivier&layout=compact&theme=radical)
